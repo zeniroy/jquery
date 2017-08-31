@@ -29,7 +29,6 @@ import "./effects/animatedSelector";
 import "./offset";
 import "./dimensions";
 import "./deprecated";
-import "./exports/amd";
 import "./exports/global";
 
 
