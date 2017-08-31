@@ -1,5 +1,5 @@
 import jQuery from "./core";
-import Sizzle from "../external/sizzle/dist/sizzle";
+import * as Sizzle from "../external/sizzle/dist/sizzle";
 
 
 
